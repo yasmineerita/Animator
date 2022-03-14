@@ -1,34 +1,43 @@
 ## Animator
 
 Who worked on this project?
-//
+<br/>
 Eugene Jahn
 Hoang Truc
-//
+<br/>
 What operating system did you develop on?
-//
+<br/>
 Windowsa dn Mac 
-//
+<br/>
 How did you split work amongst partners (if any) in this project?
-//
+<br/>
 Hoang:curve
 Eugene: particle systems
-//
+<br/>
+## Bells and Whistles
 
+Which bells and whistles did you attempt to do, which did you complete?
+<br/>
+Nope
+<br/>
+Was there anything out of the ordinary that we should know about?
+<br/>
+Nope
+<br/>
 ## Feedback
 
 About how long did you and your partners (if any) spend on this project?
-//
+<br/>
 20 hrs
-//
+<br/>
 What was the hardest part about this project?
-//
+<br/>
 Debug the position and velocity in world and local for particle systems
-//
+<br/>
 Is there anything you would change about this project?
-//
+<br/>
 Nope! everything is great
-//
+<br/>
 
 ## Modeler
 
