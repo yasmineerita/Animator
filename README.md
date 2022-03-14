@@ -3,7 +3,7 @@
 Who worked on this project?
 <br/>
 Eugene Jahn
-Hoang Truc
+Truc Nguyen
 <br/>
 What operating system did you develop on?
 <br/>
